@@ -20,6 +20,5 @@ class Application(tkinter.Frame):
     def say_hi(self):
         print("hi there, everyone!")
 
-root = tkinter.Tk()
-app = Application(master=root)
-app.mainloop()
+
+
